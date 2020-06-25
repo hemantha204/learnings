@@ -1,0 +1,13 @@
+#Commands to run the program
+
+make
+
+#Run the server and client executables in two different termainals as
+#Run the cilent processor before the server processor
+
+./client
+./server
+
+#pass the file name to the server through the cilent terminal that is available in server
+#The server will fetech the file data and print them in received.txt file in the same path
+
